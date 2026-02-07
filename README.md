@@ -20,11 +20,7 @@ This project demonstrates basic **GUI programming, event handling, and game logi
 
 ## Demo Recording
 
-## Demo Recording
-
-Click below to watch the demo:
-
-[Watch the game demo](Recording%202026-02-08%20002415.mp4)
+You can see the game in action in the repository recording file.
 
 
 
