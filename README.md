@@ -20,7 +20,7 @@ This project demonstrates basic **GUI programming, event handling, and game logi
 
 ## Demo Recording
 
-[Watch the demo](demo.mp4)
+[Watch the demo](Recording%202026-02-08%20002415.mp4)
 
 
 ---
