@@ -18,9 +18,10 @@ This project demonstrates basic **GUI programming, event handling, and game logi
 ---
 
 
-## Demo Recording
+## Demo
 
-You can see the game in action in the repository recording file.
+![Game Demo](DEMO.gif)
+
 
 
 
